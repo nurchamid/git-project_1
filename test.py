@@ -1,1 +1,1 @@
-pint('Hallo')
+print('hai')
