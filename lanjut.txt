@@ -1,0 +1,3 @@
+Data yang diperlukan
+- data demografi
+- data penjualan
